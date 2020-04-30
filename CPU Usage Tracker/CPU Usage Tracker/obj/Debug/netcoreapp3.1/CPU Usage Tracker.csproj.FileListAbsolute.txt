@@ -1,0 +1,31 @@
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.csprojAssemblyReference.cache
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.csproj.CoreCompileInputs.cache
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.AssemblyInfoInputs.cache
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.AssemblyInfo.cs
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\CPU Usage Tracker.exe
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.csproj.ResolveComReference.cache
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.csproj.CopyComplete
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\CPU Usage Tracker.deps.json
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\CPU Usage Tracker.runtimeconfig.json
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\CPU Usage Tracker.runtimeconfig.dev.json
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\CPU Usage Tracker.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\CPU Usage Tracker.pdb
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.dll
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.pdb
+C:\Users\kyubey\Desktop\CPU Usage Tracker\CPU Usage Tracker\obj\Debug\netcoreapp3.1\CPU Usage Tracker.genruntimeconfig.cache
