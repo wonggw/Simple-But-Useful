@@ -1,0 +1,14 @@
+C:\Users\Kyubey\Desktop\New folder\keylogger\keylogger\obj\Debug\keylogger.csprojAssemblyReference.cache
+C:\Users\Kyubey\Desktop\New folder\keylogger\keylogger\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Kyubey\Desktop\New folder\keylogger\keylogger\bin\Debug\keylogger.exe.config
+C:\Users\Kyubey\Desktop\New folder\keylogger\keylogger\bin\Debug\keylogger.exe
+C:\Users\Kyubey\Desktop\New folder\keylogger\keylogger\bin\Debug\keylogger.pdb
+C:\Users\Kyubey\Desktop\New folder\keylogger\keylogger\obj\Debug\keylogger.exe
+C:\Users\Kyubey\Desktop\New folder\keylogger\keylogger\obj\Debug\keylogger.pdb
+C:\Users\Kyubey\Desktop\keylogger\keylogger\obj\Debug\keylogger.csprojAssemblyReference.cache
+C:\Users\Kyubey\Desktop\keylogger\keylogger\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Kyubey\Desktop\keylogger\keylogger\obj\Debug\keylogger.exe
+C:\Users\Kyubey\Desktop\keylogger\keylogger\obj\Debug\keylogger.pdb
+C:\Users\Kyubey\Desktop\keylogger\keylogger\bin\Debug\keylogger.exe.config
+C:\Users\Kyubey\Desktop\keylogger\keylogger\bin\Debug\keylogger.exe
+C:\Users\Kyubey\Desktop\keylogger\keylogger\bin\Debug\keylogger.pdb
