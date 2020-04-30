@@ -2,4 +2,4 @@
 
 ## Projects
 1. Keylogger
-2. Cpu Usage Tracker
+2. CPU Usage Tracker
